@@ -29,3 +29,6 @@ Kumpulan ide-ide menarik untuk dibahas di podcast anggota PDPC atau ide-ide lain
 Kami menggunakan [VSNotes](https://marketplace.visualstudio.com/items?itemName=patricklee.vsnotes) untuk mencatat ide-ide ini. Walaupun bukan suatu keharusan, tapi akan jadi lebih mudah kalau pake Extension ini, seperti penamaan file dengan *timestamp*.
 
 Pertanyaan & tanggapan bisa disampaikan melalui Github Issues.
+
+## Tulisan
+kenapa harus menulis karena menulis akan menjadi sebuah sejarah di kemudian hari
