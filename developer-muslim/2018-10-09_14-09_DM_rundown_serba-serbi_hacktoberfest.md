@@ -49,7 +49,7 @@ Silahkan kenalkan diri, sebutkan poin-poin sekilas dari pendidikan terakhir hing
 ## Link / referensi
 
 - Diky Arga Anggara
-    - [Linkedin] (https://id.linkedin.com/in/dikyarga)
+    - [Linkedin](https://id.linkedin.com/in/dikyarga)
     - [Personal Website](http://dikyarga.com/)
     - [Instagram](https://www.instagram.com/dikyargaid/)
     - [Facebook](https://www.facebook.com/dikyargaID)
