@@ -11,8 +11,9 @@ tags:
 Bahas serba-serbi [#hacktoberfest](https://hacktoberfest.digitalocean.com/) berawal dari [repositori kumpulan ide](https://github.com/pdpcid/pdpcid-kumpulan-ide), bikin isu untuk ngisi bintang tamunya, siapa yang bersedia. Siapa tahu bisa dapat hadiah dari #hacktoberfest! Menarik kan?
 
 ## Tamu
-
-Belum dapat. Justru ini akan diisi sama si pembuat Pull Request (PR). Silakan kasih usulan siapa dan kasih keterangan beberapa poin mengenai tamunya.
+Speaker : <strong>Diky Arga Anggara</strong> <br/>
+Seorang developer yang telah memiliki pengalaman sangat banyak di dunia open source.
+Pengalamannya dalam Hacktoberfest sampai tahun ini hingga sering mendapatkan T-Shirt gratis di berbagai event open source membuat banyak developer terinspirasi olehnya.
 
 ## Tujuan
 
@@ -47,7 +48,14 @@ Silahkan kenalkan diri, sebutkan poin-poin sekilas dari pendidikan terakhir hing
 
 ## Link / referensi
 
-- Nama tamu
-    - Website & informasi media sosial / lainnya yang bisa diakses online
+- Diky Arga Anggara
+    - [Linkedin](https://id.linkedin.com/in/dikyarga)
+    - [Personal Website](http://dikyarga.com/)
+    - [Instagram](https://www.instagram.com/dikyargaid/)
+    - [Facebook](https://www.facebook.com/dikyargaID)
+    - [Twitter](http://twitter.com/dikyarga)
 - Artikel / referensi yang mungkin bisa jadi perbandingan:
-    - (opsional)
+    - [Firefox Student Ambassador (FSA) 2015](http://jateng.tribunnews.com/2016/02/02/kisah-diky-arga-mahasiswa-udinus-semarang-didaulat-jadi-duta-firefox)
+    - [TeaLinux Goes to Mozilla Festival in London](http://aceh.tribunnews.com/2016/11/06/linux-racikan-mahasiswa-dipamerkan-di-london)
+    - Memenangkan beasiswa Hacktiv8 melalui artikel di [Codepolitan](https://www.codepolitan.com/membuat-website-apapun-menjadi-aplikasi-desktop-dengan-electron-dalam-15-menit-5830b4e408fcc-2140)
+    - Alumni Hacktiv8 [Tonton Video ini](https://www.youtube.com/watch?v=UbvoQBLVJgA)
