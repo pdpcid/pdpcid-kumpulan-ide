@@ -39,6 +39,8 @@ Silahkan kenalkan diri, sebutkan poin-poin sekilas dari pendidikan terakhir hing
 - Cara mengatasi down / kurang semangat dalam mengurusi komunitas?
 - Apa yang perlu dihindari dalam mengurus komunitas?
 - Ada lagi yang belum dibahas? Tambahan yang mungkin mau dibagi ke pendengar?
+- Bagimana cara membagi waktu antara komunitas dengan kegiatan rutin sehari - hari?
+- Apakah dengan mengikuti komunitas dapat membantu untuk mencari pekerjaan?
 
 ### Pertanyaan penutup
 
