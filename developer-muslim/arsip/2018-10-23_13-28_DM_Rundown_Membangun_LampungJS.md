@@ -4,7 +4,7 @@ tags:
   - rundown
   - 2018
   - komunitas
-  - draft
+  - dirilis
 ---
 
 # Membentuk Komunitas LampungJS

@@ -7,7 +7,7 @@ tags:
   - magang
   - pengalaman kerja
   - mahasiswa
-  - draft
+  - dirilis
 ---
 
 # Pengalaman Internasional dari Magang sebagai Developer

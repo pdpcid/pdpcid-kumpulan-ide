@@ -4,6 +4,7 @@ tags:
   - rundown
   - 2018
   - Developer Student Club
+  - dirilis
 ---
 
 # Membangun Komunitas & Ekosistem Developer untuk Mahasiswa & Pelajar

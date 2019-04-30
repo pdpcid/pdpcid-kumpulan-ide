@@ -5,7 +5,7 @@ tags:
   - 2018
   - web development
   - web component
-  - draft
+  - dirilis
 ---
 
 # Kabar Terkini tentang Web components bareng Satya Kresna
