@@ -1,0 +1,37 @@
+---
+tags:
+  - penguji.id
+  - rundown
+  - 2019
+  - konsep testing
+  - draft
+---
+
+# Tester itu bukan penjaga gerbang
+
+## Latar Belakang
+
+- konsep yang kurang tepat mengenai keberadaan seorang Tester
+- bug ping-pong pada tim
+
+## Tujuan
+
+- pendapat mengenai bagaimana seorang tester bisa lebih berdaya dengan menjadi quality coaches untuk tim
+
+## Agenda
+
+### Pengantar
+
+### Stereotipe testing
+
+### Bug Ping-pong
+
+### Testing anti pattern
+
+### Berhenti berfikir sebagai penjaga gerbang rilis
+
+### Menjadi coach dalam bidang pengujian
+
+- Bersama membangun automated test suite
+- Menjadi bagian dari code review
+- Menganalisa kejadian di production
